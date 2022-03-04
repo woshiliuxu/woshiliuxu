@@ -23,3 +23,25 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
+```js
+const me = new Coder();
+
+// who am i?
+me.name('liuxu');
+me.job('Back-end development');
+
+// contact me
+me.email('otis1026@163.com');
+
+// my social media
+me.github('https://github.com/woshiliuxu');
+me.zhihu('https://www.zhihu.com/people/su-yang-93-24')
+
+// my skill
+me.language('java/spring/HTML/CSS/JavaScript/');
+me.skill(['java', 'spring', 'springMvc']);
+
+// my hobby
+me.hobby = ['观影', '读书', '听歌', '终生学习']
+
+```
