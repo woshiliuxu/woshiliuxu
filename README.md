@@ -3,6 +3,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a title="Hits" target="_blank" href="https://github.com/woshiliuxu/woshiliuxu"><img src="https://hits.b3log.org/woshiliuxu/woshiliuxu.svg"></a>
 
+
 <!-- ![GitHub followers](https://img.shields.io/github/followers/woshiliuxu.svg?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/woshiliuxu/woshiliuxu.github.io.svg?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/woshiliuxu/woshiliuxu.github.io.svg?style=social)
@@ -22,7 +23,7 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
+<!--
 ```js
 const me = new Coder();
 
@@ -45,3 +46,4 @@ me.skill(['java', 'spring', 'springMvc']);
 me.hobby = ['观影', '读书', '听歌', '终生学习']
 
 ```
+-->
