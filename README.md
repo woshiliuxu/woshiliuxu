@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a title="Hits" target="_blank" href="https://github.com/woshiliuxu/woshiliuxu"><img src="https://hits.b3log.org/woshiliuxu/woshiliuxu.svg"></a>
-![下载](https://user-images.githubusercontent.com/58692858/159661235-a6332bcc-9bdf-4c9b-8829-c70057c89341.png)
+<!-- ![下载](https://user-images.githubusercontent.com/58692858/159661235-a6332bcc-9bdf-4c9b-8829-c70057c89341.png) -->
 
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/woshiliuxu.svg?style=social)
